@@ -1,1 +1,1 @@
-sudo rm -rf /var/www/apps/hello-world
+#sudo rm -rf /var/www/apps/hello-world
