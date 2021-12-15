@@ -13,4 +13,3 @@ hooks:
   ApplicationStart:
     - location: scripts/ApplicationStart.sh
       runas: root
-
